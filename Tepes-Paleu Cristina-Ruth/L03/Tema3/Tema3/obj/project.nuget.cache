@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTu4EgSrb4qQ9kSK8YK7YfxSU3/zXQK5vCot1dwOGxEY5+HA6zaIrydfDr9cEmUuGggtUD2PNhbOFm7oa9yqKw==",
+  "success": true,
+  "projectFilePath": "/Users/muresancristina/Desktop/L03/Tema3/Tema3/Tema3.csproj",
+  "expectedPackageFiles": [
+    "/Users/muresancristina/.nuget/packages/google.apis/1.49.0/google.apis.1.49.0.nupkg.sha512",
+    "/Users/muresancristina/.nuget/packages/google.apis.auth/1.49.0/google.apis.auth.1.49.0.nupkg.sha512",
+    "/Users/muresancristina/.nuget/packages/google.apis.core/1.49.0/google.apis.core.1.49.0.nupkg.sha512",
+    "/Users/muresancristina/.nuget/packages/google.apis.drive.v3/1.49.0.2091/google.apis.drive.v3.1.49.0.2091.nupkg.sha512",
+    "/Users/muresancristina/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
